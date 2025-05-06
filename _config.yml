@@ -1,14 +1,14 @@
 # Site Settings
-name: create-memory
-title: create-memory
-description: make you memory ideal
+name: Dream2Reality
+title: Dream2Reality
+description: convert you Dream to Reality
 tags:
   - photo
   - template
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -109,4 +109,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+# version: v3.1.2
