@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://media.vanityfair.com/photos/562e6a898099cf93611e476e/master/pass/melissa-benoist-supergirl-gender.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://media.vanityfair.com/photos/562e6a898099cf93611e476e/master/pass/melissa-benoist-supergirl-gender.jpg
 category: blog
 tags:
   - welcome
