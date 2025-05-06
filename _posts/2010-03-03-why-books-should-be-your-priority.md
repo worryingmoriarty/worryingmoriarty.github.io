@@ -90,8 +90,8 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
+![placeholder](https://raw.githubusercontent.com/worryingmoriarty/worryingmoriarty.github.io/refs/heads/master/melissa-benoist-supergirl-gender.jpg "Large example image")
+![placeholder](https://raw.githubusercontent.com/worryingmoriarty/worryingmoriarty.github.io/refs/heads/master/melissa-benoist-supergirl-gender.jpg "Medium example image")
 ![placeholder](https://raw.githubusercontent.com/worryingmoriarty/worryingmoriarty.github.io/refs/heads/master/melissa-benoist-supergirl-gender.jpg "Small example image")
 
 ## Tables
