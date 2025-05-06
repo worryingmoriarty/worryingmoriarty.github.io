@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://media.vanityfair.com/photos/562e6a898099cf93611e476e/master/pass/melissa-benoist-supergirl-gender.jpg
-optimized_image: >-
-  https://media.vanityfair.com/photos/562e6a898099cf93611e476e/master/pass/melissa-benoist-supergirl-gender.jpg
+  https://github.com/worryingmoriarty/worryingmoriarty.github.io/blob/master/melissa-benoist-in-supergirl-0m.jpg
+# optimized_image: >-
+#  https://media.vanityfair.com/photos/562e6a898099cf93611e476e/master/pass/melissa-benoist-supergirl-gender.jpg
 category: blog
 tags:
   - welcome
