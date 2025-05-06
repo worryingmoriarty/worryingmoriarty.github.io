@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 optimized_image: >-
-  https://github.com/worryingmoriarty/worryingmoriarty.github.io/blob/master/melissa-benoist-in-supergirl-0m.jpg
+  https://raw.githubusercontent.com/worryingmoriarty/worryingmoriarty.github.io/refs/heads/master/melissa-benoist-in-supergirl-0m.jpg
 category: blog
 tags:
   - welcome
